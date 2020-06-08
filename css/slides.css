@@ -1,5 +1,5 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	font-style: normal;
 	src: url('Neucha-Regular.ttf') format('truetype');
 }
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	color: #333;
 	font-size: 22px;
 
@@ -202,7 +202,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	color: #000;
 	font-size: 24px;
 
